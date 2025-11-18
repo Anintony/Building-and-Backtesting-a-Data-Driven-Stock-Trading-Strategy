@@ -10,7 +10,7 @@ We use daily US equity return and market factor data to build a simple predictiv
 
 **Click the link below to view the full presentation and analysis directly in your browser:**
 
-* **[View Project: Data-Driven_Stock_Trading_Strategy.html](https://github.com/Anintony/Building-and-Backtesting-a-Data-Driven-Stock-Trading-Strategy/blob/main/Data-Driven_Stock_Trading_Strategy.html)**
+* **[View Project: Data-Driven_Stock_Trading_Strategy.html](https://github.com/JingyiChen1107/Building-and-Backtesting-a-Data-Driven-Stock-Trading-Strategy/blob/main/Data-Driven_Stock_Trading_Strategy.html)**
 
 The main goals of this project are:
 
